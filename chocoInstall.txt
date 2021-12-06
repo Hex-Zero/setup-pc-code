@@ -1,0 +1,16 @@
+choco install nodejs -y
+              git -y
+              vscode -y
+              adobereader -y
+              googlechrome --y
+              firefox -y
+              chocolatey-windowsupdate.extension -y
+              7zip.install -y
+              vlc -y
+              autohotkey -y
+              teamviewer -y
+              gimp -y
+              slack -y
+              chocolateygui -y
+              yarn -y
+              obs-studio -y
