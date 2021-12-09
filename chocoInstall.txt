@@ -23,3 +23,5 @@ choco install nodejs -y
               chocolateygui -y
               yarn -y
               obs-studio -y
+              microsoft-teams -y
+              sharex -y
