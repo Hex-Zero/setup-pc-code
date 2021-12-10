@@ -25,3 +25,5 @@ choco install nodejs -y
               obs-studio -y
               microsoft-teams -y
               sharex -y
+              python -y
+              gitkraken -y
